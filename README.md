@@ -1,6 +1,6 @@
 # hackathon_app
 
-### [О нашем проекте](https://docs.google.com/presentation/d/1dlZITlCc4n4kaKHIONVCJTYrrh497tXvxhyL-JtNEBE/edit?usp=sharing)
+### [О нашем проекте](https://docs.google.com/presentation/d/1dlZITlCc4n4kaKHIONVCJTYrrh497tXvxhyL-JtNEBE/edit?usp=sharing), автор презентации [Sheveleva-Tatiana](https://github.com/Sheveleva-Tatiana)
 
 ### Запуск из папки traffic_app
 #### В папке создать файл .env и определить в нем значения
