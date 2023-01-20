@@ -1,5 +1,7 @@
 # hackathon_app
 
+### [О нашем проекте](https://docs.google.com/presentation/d/1sCBvz22YaV13wOXT76XYCOiaNf3NGVt2VsWWNx5qgWY/edit?usp=sharing)
+
 ### Запуск из папки traffic_app
 #### В папке создать файл .env и определить в нем значения
 ```
